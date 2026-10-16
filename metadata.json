@@ -1,0 +1,6 @@
+{
+  "name": "Campus Event Discovery - NIT Trichy",
+  "description": "Mobile-first campus event discovery platform for NIT Trichy students, clubs, and ambassadors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
